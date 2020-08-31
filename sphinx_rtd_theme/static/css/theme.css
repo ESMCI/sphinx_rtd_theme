@@ -5319,7 +5319,7 @@ div[class^='highlight'] pre {
   position: relative;
   display: inline-block;
   background-color: #f2f2f2;
-  color: #343131;
+  color: #343131 !important;
   border-radius: 5px;
 }
 .wy-side-nav-search > div.version > div.version-dropdown > select {
@@ -5336,7 +5336,7 @@ div[class^='highlight'] pre {
   /*
   color: rgba(255, 255, 255, 0.3);
   */
-  color: #343131;
+  color: #343131 !important;
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
